@@ -6,7 +6,7 @@ description: "Mobile refreshment for the craft beer generation"
 baseurl: ""
 url: "http://yourdomain.com"
 twitter_username: pezholio
-github_username:  pezholio
+github_username:  pezholio/train-beers
 facebook_username:  pezholio
 
 # Build settings
