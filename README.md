@@ -1,4 +1,4 @@
-![](https://travis-ci.org/pezholio/train-beers.svg)
+[![](https://travis-ci.org/pezholio/train-beers.svg)](https://travis-ci.org/pezholio/train-beers)
 
 # Train beers
 
