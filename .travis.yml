@@ -1,5 +1,7 @@
 language: ruby
-script: "bundle exec rake test"
+script:
+  - bundle exec jekyll build
+  - bundle exec htmlproof _site/
 cache: bundler
 sudo: false
 branches:
