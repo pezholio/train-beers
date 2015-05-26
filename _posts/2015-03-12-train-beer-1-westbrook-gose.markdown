@@ -15,7 +15,7 @@ The result is a fresh, salty, sour and dry beer, which is unlike any other beer 
 
 Anyway, onto the beer. Westbrook Gose comes in a can, therefore combining two of the craft beer scene's recent obsessions, obscure European beer styles and putting beer in cans (trust me, it really makes a difference). I've been coveting it for some time, but I've only just managed to get my hands on a couple of cans from Bottledog in King's Cross on my way back to the station from work.
 
-![](/img/westbrook-gose-2.jpg)
+![Westbrook Gose](/img/westbrook-gose-2.jpg)
 
 I'm drinking it straight from the can, so I can't tell you how it pours (I'm thinking of getting a plastic stem glass for such an occassion), but on cracking it open, the carbonation seems surprisingly low, and, sticking my nose in, the smell is almost overwhelmingly coriander, with a saline undertone that comes from (natch) the salt.
 
