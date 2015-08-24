@@ -6,7 +6,7 @@ author:     "Stu"
 header-img: "img/twisted-barrel-1.jpg"
 ---
 
-**We're into part two of my (almost) exhaustive interview series with small and upcoming West Midlands breweries. If you haven't read part one, it's [here](train-beers.pezhol.io/2015/08/14/brewmingham-part-1/) (go on, I'll wait).**
+**We're into part two of my (almost) exhaustive interview series with small and upcoming West Midlands breweries. If you haven't read part one, it's [here](http://train-beers.pezhol.io/2015/08/14/brewmingham-part-1/) (go on, I'll wait).**
 
 I've called this series 'Brewmingham' basically because it was a semi-good pun, but Birmingham itself is pretty thin on the ground for breweries given its size and brewing history ([there's a Wikipedia article which pretty much sums up the state of play here](https://en.wikipedia.org/wiki/List_of_breweries_in_Birmingham)). However, if you venture beyond the boundaries of Brum, the craft brewing scene is pretty lively.
 
