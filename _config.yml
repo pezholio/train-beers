@@ -9,6 +9,9 @@ twitter_username: train_beers
 github_username:  pezholio/train-beers
 facebook_username:  pezholio
 
+gems:
+  - jekyll-paginate
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
