@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Free as in beer, but not free as in speech"
-date:       2016-02-28 10:50:00
+date:       2016-02-26 10:50:00 +0100
 author:     "Stu"
 header-img: "img/brewdog.jpg"
 ---
