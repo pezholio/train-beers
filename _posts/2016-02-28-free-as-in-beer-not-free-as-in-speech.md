@@ -14,7 +14,7 @@ This is an exciting move. We've already seen [Stone release the recipe for their
 
 Where this differs from previous recipe releases, this is the first time (to my knowledge) that a brewery has gone all out and released all of their recipes, and Brewdog deserve a lot of credit for this. That said, there's something missing from this release which would have been the icing on the cake.
 
-In my day job, I work at the [Open Data Institute](http://theodi.org/). We're a non-profit set up with government help by Sir Tim Berners-Lee, and our aim is to help people work with data. One of our main aims is to help organisations, be they govenrnment or private, to release open data, which is defined as follows:
+In my day job, I work at the [Open Data Institute](http://theodi.org/). We're a non-profit set up with government help by Sir Tim Berners-Lee, and our aim is to help people work with data. One of our main aims is to help organisations, be they government or private, to release open data, which is defined as follows:
 
 > "Open data and content can be freely used, modified, and shared by anyone for any purpose"
 
