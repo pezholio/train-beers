@@ -36,4 +36,6 @@ This transparency could end up improving the brewing industry for the better, wi
 
 This has actually already been tried. The [Free Beer](http://freebeer.org/) project started a few years ago, with breweries around the world brewing an openly licensed beer, including St Austell in the UK. This was a fun experiment, but it would be great to see a major brewery throw their hat into the ring and openly license all their beers. When we make things open, we make things better.
 
+(It's also worth pointing out that all the words on this blog are released under the [Creative Commons Attribution-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-sa/4.0/) - I practice what I preach!)
+
 *(Header image - [Brewdog](https://www.flickr.com/photos/potatojunkie/7026263277/in/photolist-bGTrhi-dCxeDe-dCxdeg-dCxfWr-dCxfgX-dCCFiL-9Wowtd-dCCD4d-dCCF8j-dCxdgT-dCxdbv-7n1FT7-dCxdaa-dCCDuo-vzyKvt-sqMGyN-9Wowtw-mVt75t-9UbetB-9Wowtq-nE6dHj-9UbjCF-fyEqFy-9UbetK-8ZtAnL-kLSF88-9VT31K-AZakFN-nEgnfA-8n1gaJ-b3Bxsn-9VT33p-9Ubetr-9VT334-9VT32c-9VW3Kq-tnwQR7-9VT33e-9VW3KG-t6cDw3-9VW3Ku-9VW3KE-9Ubeua-aBPvRW-9VW3KU-cpDbij-cpDczU-cpDagd-fwb6Bt-a9ZzSU) by Stuart Crawford)*
